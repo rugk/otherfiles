@@ -22,7 +22,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-# License for CommitMessageGuidelines.md:
+# License for [`contributing\commitMessages.md`](contributing\commitMessages.md):
 Copyright (c) 2015 GitHub Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining

@@ -1,3 +1,5 @@
+# Contributing
+
 ## Git Commit Messages
 
 * Use the present tense ("Add feature" not "Added feature")
@@ -21,4 +23,4 @@
     * :arrow_down: `:arrow_down:` when downgrading dependencies
     * :shirt: `:shirt:` when removing linter warnings
 
-Taken from [atom/atom CONTRIBUTING.md] (https://github.com/atom/atom/edit/master/CONTRIBUTING.md).
+Taken from [atom/atom CONTRIBUTING.md](https://github.com/atom/atom/edit/master/CONTRIBUTING.md).
