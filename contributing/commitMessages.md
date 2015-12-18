@@ -2,7 +2,7 @@
 
 ## Git Commit Messages
 
-### structure
+### Structure
 
 These rules are adopted from [the AngularJS commit conventions](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/).
 
@@ -83,7 +83,7 @@ Put any breaking changes with migration instructions in the commit body.
 
 If there is a breaking change, put **BREAKING CHANGE:** in your commit body, and it will show up in the changelog.
 
-### icons
+### Icons
 
 * Use the present tense ("Add feature" not "Added feature")
 * Use the imperative mood ("Move cursor to..." not "Moves cursor to...")
