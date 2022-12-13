@@ -4,7 +4,7 @@ Please do not try to send me encrypted mails with this key!
 If you want to send me encrypted mails you can do so, but please ask me for my private PGP key before.
 
 LongID: 0x05D40A636AFAB34D
-Fingerprint: ABA9 B8F6 F448 B07F D7EA  4A1A 05D4 0A63 6AFA B34D             
+Fingerprint: ABA9 B8F6 F448 B07F D7EA  4A1A 05D4 0A63 6AFA B34D
 
 2017-09-03: Renewed expired key for another year, fingerprint stayed the same.
 2018-09-01: Renewed for another year, fingerprint stayed the same.
